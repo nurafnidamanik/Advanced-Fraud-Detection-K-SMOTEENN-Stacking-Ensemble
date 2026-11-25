@@ -84,5 +84,5 @@ This paper is published in IEEE Access under a Creative Commons Attribution 4.0 
 ## Contact
 
 **Nurafni Damanik**
-PhD Candidate, National Taipei University of Technology
+PhD in Electrical Engineering and Computer Science, National Taipei University of Technology
 Email: nurafnidamanik36@gmail.com
